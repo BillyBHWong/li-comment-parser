@@ -1,0 +1,10 @@
+{
+	"PERMIT TYPE": String,
+	"DISCIPLINE": String,
+	"PROJECT ADDRESS": String,
+	"PROJECT AP#": Integer,
+	"EXAMINER": String,
+	"DATE": Date,
+	"COMMENT DESCRIPTION": Array,
+	"CODE REF": String,
+}
